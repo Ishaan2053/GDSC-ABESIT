@@ -28,7 +28,7 @@ export default function Home() {
         <Contact />
         <Follow />
         <Footer />
-        <AnnouncementBanner />
+        {/* <AnnouncementBanner /> */}
 
       </main>
     </>

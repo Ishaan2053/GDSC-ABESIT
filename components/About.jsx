@@ -41,7 +41,6 @@ function About() {
         <motion.div variants={item} className="max-w-xl pr-16 mx-auto mb-10">
           <h5 className="mb-6 text-3xl font-extrabold leading-none">
             GDSC ABESIT is inspired by <span className="text-blue-500">G</span>
-           
             <span className="text-red-500">o</span>
             <span className="text-yellow-500">o</span>
             <span className="text-blue-500">g</span>

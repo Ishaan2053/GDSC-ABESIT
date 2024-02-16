@@ -99,7 +99,4 @@ const [LoadMoreValue, setLoadMoreValue] = useState(8);
   );
 }
 
-// Bola tha na Upar jaao ( ˘︹˘ )
-// sorry bro just update it
-
 export default Contributors;
